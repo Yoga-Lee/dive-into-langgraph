@@ -47,7 +47,7 @@
 Create a `.env` file:
 
 ```bash
-cp .env.example .env
+cp .env .env
 ```
 
 Then register for [Alibaba Cloud Bailian](https://bailian.console.aliyun.com/?tab=model#/model-market), get an `API_KEY`, and set it in the `.env` file.

@@ -46,7 +46,7 @@
 创建 `.env` 文件：
 
 ```bash
-cp .env.example .env
+cp .env .env
 ```
 
 然后注册 [阿里云百炼](https://bailian.console.aliyun.com/?tab=model#/model-market) 账号，获取 `API_KEY` 并配置到 `.env` 文件。
